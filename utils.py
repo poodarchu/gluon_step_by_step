@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from math import exp
 from mxnet import gluon
 from mxnet import autograd
